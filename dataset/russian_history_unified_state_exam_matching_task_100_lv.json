@@ -1,0 +1,1602 @@
+[
+	{
+		"ref": "FFBE42",
+		"subref": "FFBE42_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš no šiem faktiem attiecas uz 1327. gada pretordas sacelšanos Tverā?",
+		"options": {
+			"1": "Sāls dumpis Maskavā",
+			"2": "Smoļenskas aplenkums",
+			"3": "Orenburgas aplenkums",
+			"4": "Nikolaja II atteikšanās no troņa",
+			"5": "Hanu sūtņa Čolhana nogalināšana",
+			"6": "“Asiņainā svētdiena” Pēterburgā"
+		},
+		"answer": "5"
+	},
+	{
+		"ref": "F9E646",
+		"subref": "F9E646_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā tika izveidots patriarhāts Krievijā?",
+		"options": {
+			"1": "1136. gads",
+			"2": "1242. gads",
+			"3": "1589. gads",
+			"4": "1703. gads",
+			"5": "1914. gads",
+			"6": "1957. gads"
+		},
+		"answer": "3"
+	},
+	{
+		"ref": "2CE847",
+		"subref": "2CE847_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš raksturojums atbilst Kazaņas katedrālei Sanktpēterburgā?",
+		"options": {
+			"1": "Šis kultūras piemineklis radīts Jaroslava Gudrā valdīšanas laikā.",
+			"2": "Šis piemineklis ir Krievijas kara slavas simbols, veltīts 1812. gada Tēvijas karam.",
+			"3": "Šis piemineklis ir noteikumu un padomu krājums par sabiedriskajiem, ģimenes, saimnieciskajiem un reliģiskajiem jautājumiem.",
+			"4": "Šis kultūras piemineklis radīts 17. gadsimtā.",
+			"5": "Tā autors 'atkušņa' laikā vadīja žurnālu 'Novij Mir'.",
+			"6": "Šis kultūras piemineklis radīts 18. gadsimtā."
+		},
+		"answer": "2"
+	},
+	{
+		"ref": "CB1647",
+		"subref": "CB1647_C",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā tika izdots Ivana IV Sudebņiks?",
+		"options": {
+			"1": "1147. gads",
+			"2": "1497. gads",
+			"3": "1550. gads",
+			"4": "1772. gads",
+			"5": "1918. gads",
+			"6": "1932. gads"
+		},
+		"answer": "3"
+	},
+	{
+		"ref": "96DF40",
+		"subref": "96DF40_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš no minētajiem darbojās dekabristu kustībā?",
+		"options": {
+			"1": "Jermaks Timofejevičs",
+			"2": "Jaroslavs Gudrais",
+			"3": "J. V. Staļins",
+			"4": "Aleksandrs Ņevskis",
+			"5": "P. I. Pestelis",
+			"6": "Ņ. S. Hruščovs"
+		},
+		"answer": "5"
+	},
+	{
+		"ref": "90DC43",
+		"subref": "90DC43_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš no minētajiem ir saistīts ar vispārējās karaklausības ieviešanu?",
+		"options": {
+			"1": "Igors Vecais",
+			"2": "A. F. Adaševs",
+			"3": "A. F. Kerenskis",
+			"4": "G. K. Žukovs",
+			"5": "D. A. Miljutins",
+			"6": "Svjatopolks Nolādētais"
+		},
+		"answer": "5"
+	},
+	{
+		"ref": "626146",
+		"subref": "626146_C",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš no minētajiem ir saistīts ar Smoļenskas karu?",
+		"options": {
+			"1": "G. M. Malenkovs",
+			"2": "D. M. Bobroks-Volīnskis",
+			"3": "Jevpatijs Kolovrats",
+			"4": "N. I. Buharins",
+			"5": "M. B. Šeins",
+			"6": "P. I. Bagrations"
+		},
+		"answer": "5"
+		},
+	{
+	    "ref": "EEDB46",
+		"subref": "EEDB46_C",
+	    "source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+	    "question_type": "Single Choice",
+	    "question": "Kurā gadā Maskavā izcēlās Sāls dumpis?",
+	    "options": {
+	    	"1": "1238. gads",
+		    "2": "1380. gads",
+		    "3": "1648. gads",
+			"4": "1880. gads",
+			"5": "1928. gads",
+			"6": "1954. gads"
+		},
+		"answer": "3"
+	},
+	{
+		"ref": "06E7FA",
+		"subref": "06E7FA_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Ar kuru darbības jomu saistīts N. N. Mikluho-Maklajs?",
+		"options": {
+			"1": "Pilsētplānošana",
+			"2": "Augstākās nervu darbības teorija",
+			"3": "Austrālijas un Okeānijas pamatiedzīvotāju dzīves izpēte",
+			"4": "Hroniku rakstīšana",
+			"5": "Kodolenerģijas izmantošana",
+			"6": "Polārie pētījumi"
+	  },
+	  "answer": "3"
+	},
+	{
+		"ref": "1E94FB",
+		"subref": "1E94FB_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš no minētajiem ir saistīts ar metropolīta katedras pārcelšanu no Vladimiras uz Maskavu?",
+		"options": {
+			"1": "Ivans Kaļita",
+			"2": "Jermaks Timofejevičs",
+			"3": "Ņ. S. Hruščovs",
+			"4": "D. M. Požarskis",
+			"5": "Pēteris I",
+			"6": "P. A. Stolipins"
+	  },
+	  "answer": "1"
+	},
+	{
+		"ref": "DB8CF6",
+		"subref": "DB8CF6_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš no variantiem attiecas uz Maskavas Kremļa Uspenskas katedrāli?",
+		"options": {
+			"1": "Radīts Katrīnas II valdīšanas laikā",
+			"2": "Radīts Ivana III valdīšanas laikā",
+			"3": "Veidots romantisma stilā",
+			"4": "Radīts 19. gadsimtā",
+			"5": "Autors – L. N. Tolstojs",
+			"6": "Veltīts Otrā pasaules kara notikumiem"
+	  },
+	  "answer": "2"
+	},
+	{
+		"ref": "D49eF8",
+		"subref": "D49eF8_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā tika noslēgts Poļanovas miera līgums starp Krieviju un Žečpospolitu?",
+		"options": {
+			"1": "1125. gads",
+			"2": "1223. gads",
+			"3": "1634. gads",
+			"4": "1915. gads",
+			"5": "1943. gads",
+			"6": "1944. gads"
+	  },
+	  "answer": "3"
+	},
+	{
+		"ref": "A6E8FD",
+		"subref": "A6E8FD_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā Ivans IV pieņēma cara titulu?",
+		"options": {
+			"1": "1113. gads",
+			"2": "1223. gads",
+			"3": "1547. gads",
+			"4": "1767. gads",
+			"5": "1917. gads",
+			"6": "1922. gads"
+	  },
+	  "answer": "3"
+	},
+	{
+		"ref": "D30640",
+		"subref": "D30640_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš no dotajiem variantiem attiecas uz kultūras darbu “Domostroj”?",
+		"options": {
+			"1": "Autors – F. G. Volkovs.",
+			"2": "Autors – M. I. Glinka.",
+			"3": "Kultūras darbs ir agrākais no līdz mūsdienām nonākušajiem hroniku krājumiem.",
+			"4": "Autors – M. M. Zoščenko.",
+			"5": "Kultūras darbs ir noteikumu, padomu un pamācību krājums par dažādām cilvēka dzīves jomām.",
+			"6": "Autors – O. A. Kiprenskis."
+	  },
+	  "answer": "5"
+    },
+	{
+		"ref": "D30640",
+		"subref": "D30640_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš no dotajiem variantiem ir saistīts ar A. S. Puškina portretu?",
+		"options": {
+			"1": "Autors – F. G. Volkovs.",
+			"2": "Autors – M. I. Glinka.",
+			"3": "Kultūras darbs ir agrākais no līdz mūsdienām nonākušajiem hroniku krājumiem.",
+			"4": "Autors – M. M. Zoščenko.",
+			"5": "Kultūras darbs ir noteikumu, padomu un pamācību krājums par dažādām cilvēka dzīves jomām.",
+			"6": "Autors – O. A. Kiprenskis."
+	 },
+	  "answer": "6"
+	},
+	{
+		"ref": "D46E49",
+		"subref": "D46E49_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā sākās zemes reformas īstenošana?",
+		"options": {
+           "1": "1589. gads",
+           "2": "1785. gads",
+           "3": "1864. gads",
+           "4": "1922. gads",
+           "5": "1942. gads",
+           "6": "1944. gads"
+	 },
+	  "answer": "3"
+	},
+	{
+		"ref": "D46E49",
+		"subref": "D46E49_C",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā tika izveidots patriarhāts Krievijā?",
+		"options": {
+		   "1": "1589. gads",
+           "2": "1785. gads",
+           "3": "1864. gads",
+           "4": "1922. gads",
+           "5": "1942. gads",
+           "6": "1944. gads"
+	 },
+	  "answer": "1"
+	},
+	{
+		"ref": "D46E49",
+		"subref": "D46E49_D",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā tika parakstīts Rapallo līgums starp Padomju Krieviju un Vāciju?",
+        "options": {
+           "1": "1589. gads",
+           "2": "1785. gads",
+           "3": "1864. gads",
+           "4": "1922. gads",
+           "5": "1942. gads",
+           "6": "1944. gads"
+	 },
+	  "answer": "4"
+	},
+	{
+		"ref": "96DF40",
+		"subref": "96DF40_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš bija iesaistīts Krievzemes cīņās pret pečeņegiem?",
+		"options": {
+		  "1": "Jermaks Timofejevičs",
+          "2": "Jaroslavs Gudrais",
+          "3": "J. V. Staļins",
+          "4": "Aleksandrs Ņevskis",
+          "5": "P. I. Pestelis",
+          "6": "Ņ. S. Hruščovs"
+	 },
+	  "answer": "2"
+	},
+	{
+		"ref": "96DF40",
+		"subref": "96DF40_C",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš bija saistīts ar Sibīrijas iekarošanas sākumu?",
+		"options": {
+		  "1": "Jermaks Timofejevičs",
+          "2": "Jaroslavs Gudrais",
+          "3": "J. V. Staļins",
+          "4": "Aleksandrs Ņevskis",
+          "5": "P. I. Pestelis",
+          "6": "Ņ. S. Hruščovs"
+	 },
+	  "answer": "1"
+	},
+	{
+		"ref": "96DF40",
+		"subref": "96DF40_D",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās PSKP XX kongresā?",
+		"options": {
+		  "1": "Jermaks Timofejevičs",
+          "2": "Jaroslavs Gudrais",
+          "3": "J. V. Staļins",
+          "4": "Aleksandrs Ņevskis",
+          "5": "P. I. Pestelis",
+          "6": "Ņ. S. Hruščovs"
+	 },
+	  "answer": "6"
+	},
+	{
+		"ref": "90DC43",
+		"subref": "90DC43_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš bija saistīts ar kauju pie Halhingolas upes?",
+		"options": {
+		  "1": "Igors Vecais",
+          "2": "A. F. Adaševs",
+          "3": "A. F. Kerenskis",
+          "4": "G. K. Žukovs",
+          "5": "D. A. Miljutins",
+          "6": "Svjatopolks Nolādētais"
+	 },
+	  "answer": "4"
+	},
+	{
+		"ref": "90DC43",
+		"subref": "90DC43_D",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās pirmajā Zemes sapulcē?",
+		"options": {
+		  "1": "Igors Vecais",
+          "2": "A. F. Adaševs",
+          "3": "A. F. Kerenskis",
+          "4": "G. K. Žukovs",
+          "5": "D. A. Miljutins",
+          "6": "Svjatopolks Nolādētais"
+	 },
+	  "answer": "2"
+	},
+	{
+		"ref": "EEDB46",
+		"subref": "EEDB46_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā tika izveidota Augstākā rīcības komisija?",
+		"options": {
+		  "1": "1238. gads",
+          "2": "1380. gads",
+          "3": "1648. gads",
+          "4": "1880. gads",
+          "5": "1928. gads",
+          "6": "1954. gads"
+	 },
+	  "answer": "4"
+	},
+	{
+		"ref": "EEDB46",
+		"subref": "EEDB46_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā notika Kuļikovas kauja?",
+		"options": {
+		  "1": "1238. gads",
+          "2": "1380. gads",
+          "3": "1648. gads",
+          "4": "1880. gads",
+          "5": "1928. gads",
+          "6": "1954. gads"
+	 },
+	  "answer": "2"
+	},
+	{
+		"ref": "EEDB46",
+		"subref": "EEDB46_D",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā sākās masveida neskarto zemju apguve?",
+		"options": {
+		  "1": "1238. gads",
+          "2": "1380. gads",
+          "3": "1648. gads",
+          "4": "1880. gads",
+          "5": "1928. gads",
+          "6": "1954. gads"
+	 },
+	  "answer": "6"
+	},
+	{
+		"ref": "626146",
+		"subref": "626146_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās Kuļikovas kaujā?",
+		"options": {
+		  "1": "G. M. Malenkovs",
+          "2": "D. M. Bobroks-Volinskis",
+          "3": "Jevpatijs Kolovrats",
+          "4": "N. I. Buharins",
+          "5": "M. B. Šeins",
+          "6": "P. I. Bagrations"
+	 },
+	  "answer": "2"
+	},
+	{
+		"ref": "626146",
+		"subref": "626146_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās 1812. gada karā?",
+		"options": {
+		  "1": "G. M. Malenkovs",
+          "2": "D. M. Bobroks-Volinskis",
+          "3": "Jevpatijs Kolovrats",
+          "4": "N. I. Buharins",
+          "5": "M. B. Šeins",
+          "6": "P. I. Bagrations"
+	 },
+	  "answer": "6"
+	},
+	{
+		"ref": "626146",
+		"subref": "626146_D",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš bija iesaistīts Ļeņingradas lietas fabrikācijā?",
+		"options": {
+		  "1": "G. M. Malenkovs",
+          "2": "D. M. Bobroks-Volinskis",
+          "3": "Jevpatijs Kolovrats",
+          "4": "N. I. Buharins",
+          "5": "M. B. Šeins",
+          "6": "P. I. Bagrations"
+	 },
+	  "answer": "1"
+	},
+	{
+		"ref": "81BB42",
+		"subref": "81BB42_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās Ivana IV kronēšanā?",
+		"options": {
+		  "1": "V. I. Ļeņins",
+          "2": "L. G. Kornilovs",
+          "3": "Ivans III",
+          "4": "Mitropolīts Makārijs",
+          "5": "M. M. Speranskis",
+          "6": "Vasilijs III"
+	 },
+	  "answer": "4"
+	},
+	{
+		"ref": "81BB42",
+		"subref": "81BB42_C",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās Krievijas impērijas Valsts padomes izveidē?",
+		"options": {
+		  "1": "V. I. Ļeņins",
+          "2": "L. G. Kornilovs",
+          "3": "Ivans III",
+          "4": "Mitropolīts Makārijs",
+          "5": "M. M. Speranskis",
+          "6": "Vasilijs III"
+	 },
+	  "answer": "5"
+	},
+	{
+		"ref": "CB1647",
+		"subref": "CB1647_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā notika Pirmā Žečpospoļitas sadalīšana?",
+		"options": {
+		  "1": "1147. gads",
+          "2": "1497. gads",
+          "3": "1550. gads",
+          "4": "1772. gads",
+          "5": "1918. gads",
+          "6": "1932. gads"
+	 },
+	  "answer": "4"
+	},
+	{
+		"ref": "CB1647",
+		"subref": "CB1647_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā pirmoreiz hronikās minēta Maskava?",
+		"options": {
+		  "1": "1147. gads",
+          "2": "1497. gads",
+          "3": "1550. gads",
+          "4": "1772. gads",
+          "5": "1918. gads",
+          "6": "1932. gads"
+	 },
+	  "answer": "1"
+	},
+	{
+		"ref": "CB1647",
+		"subref": "CB1647_C",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā tika izdots Ivana IV Sudebņiks?",
+		"options": {
+		  "1": "1147. gads",
+          "2": "1497. gads",
+          "3": "1550. gads",
+          "4": "1772. gads",
+          "5": "1918. gads",
+          "6": "1932. gads"
+	 },
+	  "answer": "3"
+	},
+	{
+		"ref": "CB1647",
+		"subref": "CB1647_D",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā PSRS tika ieviesta pasu sistēma?",
+		"options": {
+		  "1": "1147. gads",
+          "2": "1497. gads",
+          "3": "1550. gads",
+          "4": "1772. gads",
+          "5": "1918. gads",
+          "6": "1932. gads"
+	 },
+	  "answer": "6"
+	},
+	{
+		"ref": "47590F",
+		"subref": "47590F_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā tika nogalināts imperators Pāvils I?",
+		"options": {
+		  "1": "1485. gads",
+          "2": "1547. gads",
+          "3": "1589. gads",
+          "4": "1801. gads",
+          "5": "1920. gads",
+          "6": "1924. gads"
+	 },
+	  "answer": "4"
+	},
+	{
+		"ref": "47590F",
+		"subref": "47590F_C",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā tika pieņemta pirmā PSRS Konstitūcija?",
+		"options": {
+		  "1": "1485. gads",
+          "2": "1547. gads",
+          "3": "1589. gads",
+          "4": "1801. gads",
+          "5": "1920. gads",
+          "6": "1924. gads"
+	 },
+	  "answer": "6"
+	},
+	{
+		"ref": "F20D05",
+		"subref": "F20D05_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš pārstāvēja PSRS, kad tā iestājās Tautu Savienībā?",
+		"options": {
+	      "1": "Vasilijs II Tumšais",
+          "2": "M. M. Ļitvinovs",
+          "3": "D. M. Požarskis",
+          "4": "E. F. Kankrins",
+          "5": "S. J. Vite",
+          "6": "Ivans Kaļita"
+	 },
+	  "answer": "2"
+	},
+	{
+		"ref": "F20D05",
+		"subref": "F20D05_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš vadīja Maskavas atbrīvošanu no poļu–lietuviešu iebrucējiem?",
+		"options": {
+		  "1": "Vasilijs II Tumšais",
+          "2": "M. M. Ļitvinovs",
+          "3": "D. M. Požarskis",
+          "4": "E. F. Kankrins",
+          "5": "S. J. Vite",
+          "6": "Ivans Kaļita"
+	 },
+	  "answer": "3"
+	},
+	{
+		"ref": "F20D05",
+		"subref": "F20D05_C",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš bija iesaistīts Maskavas kņazistes iekšējā karā 15. gadsimta otrajā ceturtdaļā?",
+		"options": {
+		  "1": "Vasilijs II Tumšais",
+          "2": "M. M. Ļitvinovs",
+          "3": "D. M. Požarskis",
+          "4": "E. F. Kankrins",
+          "5": "S. J. Vite",
+          "6": "Ivans Kaļita"
+	 },
+	  "answer": "1"
+	},
+	{
+		"ref": "F20D05",
+		"subref": "F20D05_D",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš ieviesa zelta standartu Krievijas rublim?",
+		"options": {
+		  "1": "Vasilijs II Tumšais",
+          "2": "M. M. Ļitvinovs",
+          "3": "D. M. Požarskis",
+          "4": "E. F. Kankrins",
+          "5": "S. J. Vite",
+          "6": "Ivans Kaļita"
+	 },
+	  "answer": "5"
+	},
+	{
+		"ref": "70B20A",
+		"subref": "70B20A_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās Krievijas–Japānas karā?",
+		"options": {
+		  "1": "J. V. Staļins",
+          "2": "Ivans IV",
+          "3": "M. I. Kutuzovs",
+          "4": "V. V. Goļicins",
+          "5": "Oļegs Vedais",
+          "6": "S. O. Makarovs"
+	 },
+	  "answer": "6"
+	},
+	{
+		"ref": "70B20A",
+		"subref": "70B20A_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās Potsdamas konferencē?",
+		"options": {
+		  "1": "J. V. Staļins",
+          "2": "Ivans IV",
+          "3": "M. I. Kutuzovs",
+          "4": "V. V. Goļicins",
+          "5": "Oļegs Vedais",
+          "6": "S. O. Makarovs"
+	 },
+	  "answer": "1"
+	},
+	{
+		"ref": "70B20A",
+		"subref": "70B20A_C",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš parakstīja rakstisko līgumu starp Krievzemi un Bizantiju?",
+		"options": {
+		  "1": "J. V. Staļins",
+          "2": "Ivans IV",
+          "3": "M. I. Kutuzovs",
+          "4": "V. V. Goļicins",
+          "5": "Oļegs Vedais",
+          "6": "S. O. Makarovs"
+	 },
+	  "answer": "5"
+	},
+	{
+		"ref": "B9F70A",
+		"subref": "B9F70A_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā tika izveidota PSRS?",
+		"options": {
+		  "1": "1237. gads",
+          "2": "1603. gads",
+          "3": "1709. gads",
+          "4": "1825. gads",
+          "5": "1922. gads",
+          "6": "1937. gads"
+	 },
+	  "answer": "5"
+	},
+	{
+		"ref": "B9F70A",
+		"subref": "B9F70A_D",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā notika Poltavas kauja?",
+		"options": {
+		  "1": "1237. gads",
+          "2": "1603. gads",
+          "3": "1709. gads",
+          "4": "1825. gads",
+          "5": "1922. gads",
+          "6": "1937. gads"
+	 },
+	  "answer": "3"
+	},
+	{
+		"ref": "BE91F3",
+		"subref": "BE91F3_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās metropolīta rezidences pārvietošanā no Vladimira uz Maskavu?",
+		"options": {
+		  "1": "B. K. Minihs",
+          "2": "Metropolīts Ilarions",
+          "3": "M. V. Skopins-Šuiskis",
+          "4": "L. G. Korņilovs",
+          "5": "Metropolīts Pēteris",
+          "6": "S. O. Makarovs"
+	 },
+	  "answer": "5"
+	},
+	{
+		"ref": "BE91F3",
+		"subref": "BE91F3_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš vadīja ministru kabinetu Annas Joanovnas valdīšanas laikā?",
+		"options": {
+		  "1": "B. K. Minihs",
+          "2": "Metropolīts Ilarions",
+          "3": "M. V. Skopins-Šuiskis",
+          "4": "L. G. Korņilovs",
+          "5": "Metropolīts Pēteris",
+          "6": "S. O. Makarovs"
+	 },
+	  "answer": "1"
+	},
+	{
+		"ref": "BE91F3",
+		"subref": "BE91F3_D",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās Pirmajā pasaules karā?",
+		"options": {
+		  "1": "B. K. Minihs",
+          "2": "Metropolīts Ilarions",
+          "3": "M. V. Skopins-Šuiskis",
+          "4": "L. G. Korņilovs",
+          "5": "Metropolīts Pēteris",
+          "6": "S. O. Makarovs"
+	 },
+	  "answer": "4"
+	},
+	{
+		"ref": "1E94FB",
+		"subref": "1E94FB_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās Rietumsibīrijas apguvē?",
+		"options": {
+		  "1": "Ivans Kaļita",
+          "2": "Jermaks Timofejevičs",
+          "3": "Ņ. S. Hruščovs",
+          "4": "D. M. Požarskis",
+          "5": "Pēteris I",
+          "6": "P. A. Stolipins"
+	 },
+	  "answer": "2"
+	},
+	{
+		"ref": "1E94FB",
+		"subref": "1E94FB_D",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās Karību krīzē?",
+		"options": {
+		  "1": "Ivans Kaļita",
+          "2": "Jermaks Timofejevičs",
+          "3": "N. S. Hruščovs",
+          "4": "D. M. Požarskis",
+          "5": "Pēteris I",
+          "6": "P. A. Stolipins"
+	 },
+	  "answer": "3"
+	},
+	{
+		"ref": "47590F",
+		"subref": "47590F_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā Tveras kņaziste pievienojās Maskavas kņazistei?",
+		"options": {
+		  "1": "1485. gads",
+          "2": "1547. gads",
+          "3": "1589. gads",
+          "4": "1801. gads",
+          "5": "1920. gads",
+          "6": "1924. gads"
+	 },
+	  "answer": "1"
+	},
+	{
+		"ref": "47590F",
+		"subref": "47590F_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā tika nogalināts imperators Pāvils I?",
+		"options": {
+		  "1": "1485. gads",
+          "2": "1547. gads",
+          "3": "1589. gads",
+          "4": "1801. gads",
+          "5": "1920. gads",
+          "6": "1924. gads"
+	 },
+	  "answer": "4"
+	},
+	{
+		"ref": "AC110A",
+		"subref": "AC110A_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš izveidoja Tušinska nometni?",
+		"options": {
+		  "1": "Aleksandrs Ņevskis",
+          "2": "J. V. Staļins",
+          "3": "Lžedmitrijs II",
+          "4": "Jekaterīna II",
+          "5": "M. S. Gorbačovs",
+          "6": "Kņazs Vladimirs Svjatoslavičs"
+	 },
+	  "answer": "3"
+	},
+	{
+		"ref": "AC110A",
+		"subref": "AC110A_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās Jaltas konferencē “Lielā trijnieka” sastāvā?",
+		"options": {
+		  "1": "Aleksandrs Ņevskis",
+          "2": "J. V. Staļins",
+          "3": "Lžedmitrijs II",
+          "4": "Jekaterīna II",
+          "5": "M. S. Gorbačovs",
+          "6": "Kņazs Vladimirs Svjatoslavičs"
+	 },
+	  "answer": "2"
+	},
+	{
+		"ref": "AC110A",
+		"subref": "AC110A_C",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš izdeva manifestu par uzņēmējdarbības brīvību?",
+		"options": {
+		  "1": "Aleksandrs Ņevskis",
+          "2": "J. V. Staļins",
+          "3": "Lžedmitrijs II",
+          "4": "Jekaterīna II",
+          "5": "M. S. Gorbačovs",
+          "6": "Kņazs Vladimirs Svjatoslavičs"
+	 },
+	  "answer": "4"
+	},
+	{
+		"ref": "AC110A",
+		"subref": "AC110A_D",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš pieņēma kristīšanu Krievzemē?",
+		"options": {
+		  "1": "Aleksandrs Ņevskis",
+          "2": "J. V. Staļins",
+          "3": "Lžedmitrijs II",
+          "4": "Jekaterīna II",
+          "5": "M. S. Gorbačovs",
+          "6": "Kņazs Vladimirs Svjatoslavičs"
+	 },
+	  "answer": "6"
+	},
+	{
+		"ref": "C9A60A",
+		"subref": "C9A60A_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kāda bija N. I. Lobačevska darbības joma?",
+		"options": {
+		  "1": "Grāmatu izdošana",
+          "2": "Pirmā kosmiska aparāta radīšana",
+          "3": "Krievzemes arhitektūra",
+          "4": "Ikonu glezniecība",
+          "5": "Neeiklīda ģeometrijas radīšana",
+          "6": "Augstākas nervu darbības teorijas izstrāde"
+	 },
+	  "answer": "5"
+	},
+	{
+		"ref": "C9A60A",
+		"subref": "C9A60A_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kāda bija Feofana Greka darbības joma?",
+		"options": {
+	      "1": "Grāmatu izdošana",
+          "2": "Pirmā kosmiska aparāta radīšana",
+          "3": "Krievzemes arhitektūra",
+          "4": "Ikonu glezniecība",
+          "5": "Neeiklīda ģeometrijas radīšana",
+          "6": "Augstākas nervu darbības teorijas izstrāde"
+	 },
+	  "answer": "4"
+	},
+	{
+		"ref": "C9A60A",
+		"subref": "C9A60A_C",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kāda bija S. P. Koroļova darbības joma?",
+		"options": {
+		  "1": "Grāmatu izdošana",
+          "2": "Pirmā kosmiska aparāta radīšana",
+          "3": "Krievzemes arhitektūra",
+          "4": "Ikonu glezniecība",
+          "5": "Neeiklīda ģeometrijas radīšana",
+          "6": "Augstākas nervu darbības teorijas izstrāde"
+	 },
+	  "answer": "2"
+	},
+	{
+		"ref": "C9A60A",
+		"subref": "C9A60A_D",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kāda bija Ivana Fjodorova darbības joma?",
+		"options": {
+		  "1": "Grāmatu izdošana",
+          "2": "Pirmā kosmiska aparāta radīšana",
+          "3": "Krievzemes arhitektūra",
+          "4": "Ikonu glezniecība",
+          "5": "Neeiklīda ģeometrijas radīšana",
+          "6": "Augstākas nervu darbības teorijas izstrāde"
+	 },
+	  "answer": "1"
+	},
+	{
+		"ref": "821B0C",
+		"subref": "821B0C_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā tika noslēgts Nīštates miera līgums?",
+		"options": {
+		  "1": "944. g.",
+          "2": "1113. g.",
+          "3": "1514. g.",
+          "4": "1721. g.",
+          "5": "1905. g.",
+          "6": "1918. g."
+	 },
+	  "answer": "4"
+	},
+	{
+		"ref": "821B0C",
+		"subref": "821B0C_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā tika noslēgts Brestļitovskas miera līgums?",
+		"options": {
+		  "1": "944. g.",
+          "2": "1113. g.",
+          "3": "1514. g.",
+          "4": "1721. g.",
+          "5": "1905. g.",
+          "6": "1918. g."
+	 },
+	  "answer": "6"
+	},
+	{
+		"ref": "821B0C",
+		"subref": "821B0C_C",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā Smoļenska tika iekļauta Maskavas valsts sastāvā?",
+		"options": {
+		  "1": "944. g.",
+          "2": "1113. g.",
+          "3": "1514. g.",
+          "4": "1721. g.",
+          "5": "1905. g.",
+          "6": "1918. g."
+	 },
+	  "answer": "3"
+	},
+	{
+		"ref": "FB4A78",
+		"subref": "FB4A78_C",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā notika „Asiņainā svētdiena”?",
+		"options": {
+		  "1": "1327. g.",
+          "2": "1682. g.",
+          "3": "1812. g.",
+          "4": "1905. g.",
+          "5": "1962. g.",
+          "6": "1980. g."
+	 },
+	  "answer": "4"
+	},
+	{
+		"ref": "FB4A78",
+		"subref": "FB4A78_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā tika nošauta demonstrācija Novočerkaskā?",
+		"options": {
+		  "1": "1327. g.",
+          "2": "1682. g.",
+          "3": "1812. g.",
+          "4": "1905. g.",
+          "5": "1962. g.",
+          "6": "1980. g."
+	 },
+	  "answer": "5"
+	},
+	{
+		"ref": "FB4A78",
+		"subref": "FB4A78_D",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kad notika Streļču sacelšanās?",
+		"options": {
+		  "1": "1327. g.",
+          "2": "1682. g.",
+          "3": "1812. g.",
+          "4": "1905. g.",
+          "5": "1962. g.",
+          "6": "1980. g."
+	 },
+	  "answer": "2"
+	},
+	{
+		"ref": "22BA7E",
+		"subref": "22BA7E_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās Pleskavas aplenkumā Livonijas kara laikā?",
+		"options": {
+		  "1": "P. G. Kahovskis",
+          "2": "P. I. Bagrations",
+          "3": "B. N. Jeļcins",
+          "4": "Jaroslavs Gudrais",
+          "5": "Oļegs Vedais",
+          "6": "Stefans Batorijs"
+	 },
+	  "answer": "6"
+	},
+	{
+		"ref": "22BA7E",
+		"subref": "22BA7E_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās sacelšanās Senāta laukumā Sanktpēterburgā?",
+		"options": {
+		  "1": "P. G. Kahovskis",
+          "2": "P. I. Bagrations",
+          "3": "B. N. Jeļcins",
+          "4": "Jaroslavs Gudrais",
+          "5": "Oļegs Vedais",
+          "6": "Stefans Batorijs"
+	 },
+	  "answer": "1"
+	},
+	{
+		"ref": "22BA7E",
+		"subref": "22BA7E_C",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās PSKP darbības izbeigšanā?",
+		"options": {
+		  "1": "P. G. Kahovskis",
+          "2": "P. I. Bagrations",
+          "3": "B. N. Jeļcins",
+          "4": "Jaroslavs Gudrais",
+          "5": "Oļegs Vedais",
+          "6": "Stefans Batorijs"
+	 },
+	  "answer": "3"
+	},
+	{
+		"ref": "908D74",
+		"subref": "908D74_C",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās Krimas pievienošanā Krievijas impērijai?",
+		"options": {
+		  "1": "M. M. Speranskis",
+          "2": "Ivans III",
+          "3": "Vasilijs II",
+          "4": "G. A. Potjomkins",
+          "5": "V. M. Molotovs",
+          "6": "V. I. Ļeņins"
+	 },
+	  "answer": "4"
+	},
+	{
+		"ref": "908D74",
+		"subref": "908D74_D",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās Padomju-Vācijas neuzbrukšanas pakta parakstīšanā?",
+		"options": {
+		  "1": "M. M. Speranskis",
+          "2": "Ivans III",
+          "3": "Vasilijs II",
+          "4": "G. A. Potjomkins",
+          "5": "V. M. Molotovs",
+          "6": "V. I. Ļeņins"
+	 },
+	  "answer": "5"
+	},
+	{
+		"ref": "2D280B",
+		"subref": "2D280B_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās tikšanās laikā ar Napoleonu Bonapartu Tilzītā?",
+		"options": {
+		  "1": "Ivans IV",
+          "2": "Aleksandrs I",
+          "3": "Daniils Galīcijas",
+          "4": "Cars Mihails Fjodorovičs",
+          "5": "L. I. Brežņevs",
+          "6": "M. S. Gorbačovs"
+	 },
+	  "answer": "2"
+	},
+	{
+		"ref": "2D280B",
+		"subref": "2D280B_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās kaujā pie Kalkas upes?",
+		"options": {
+		  "1": "Ivans IV",
+          "2": "Aleksandrs I",
+          "3": "Daniils Galīcijas",
+          "4": "Cars Mihails Fjodorovičs",
+          "5": "L. I. Brežņevs",
+          "6": "M. S. Gorbačovs"
+	 },
+	  "answer": "3"
+	},
+	{
+		"ref": "2D280B",
+		"subref": "2D280B_D",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš izveidoja opričņinu?",
+		"options": {
+		  "1": "Ivans IV",
+          "2": "Aleksandrs I",
+          "3": "Daniils Galīcijas",
+          "4": "Cars Mihails Fjodorovičs",
+          "5": "L. I. Brežņevs",
+          "6": "M. S. Gorbačovs"
+	 },
+	  "answer": "1"
+	},
+	{
+		"ref": "DC03B7",
+		"subref": "DC03B7_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā tika atklāts Nikolajevas dzelzceļš?",
+		"options": {
+	      "1": "1497. g.",
+          "2": "1589. g.",
+          "3": "1682. g.",
+          "4": "1851. g.",
+          "5": "1917. g.",
+          "6": "1936. g."
+	 },
+	  "answer": "4"
+	},
+	{
+		"ref": "DC03B7",
+		"subref": "DC03B7_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā Krievijā pieņēma dekrētu par 8 stundu darba dienu?",
+		"options": {
+		  "1": "1497. g.",
+          "2": "1589. g.",
+          "3": "1682. g.",
+          "4": "1851. g.",
+          "5": "1917. g.",
+          "6": "1936. g."
+	 },
+	  "answer": "5"
+	},
+	{
+		"ref": "5AD6B5",
+		"subref": "5AD6B5_C",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās Septiņgadu karā?",
+		"options": {
+	      "1": "Aleksandrs Peresvets",
+          "2": "A. F. Adaševs",
+          "3": "M. M. Goļicins",
+          "4": "G. K. Žukovs",
+          "5": "P. A. Rumjancevs",
+          "6": "Jevpātijs Kolovrats"
+	 },
+	  "answer": "5"
+	},
+	{
+		"ref": "8DF1B6",
+		"subref": "8DF1B6_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā notika ģenerāļa P. N. Vrangeļa karaspēka sakāve Krimā?",
+		"options": {
+		  "1": "1036. gads",
+          "2": "1338. gads",
+          "3": "1632. gads",
+          "4": "1812. gads",
+          "5": "1920. gads",
+          "6": "1941. gads"
+	 },
+	  "answer": "5"
+	},
+	{
+		"ref": "8DF1B6",
+		"subref": "8DF1B6_D",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā Krievijas armija veica Tarutinas manevru?",
+		"options": {
+		  "1": "1036. gads",
+          "2": "1338. gads",
+          "3": "1632. gads",
+          "4": "1812. gads",
+          "5": "1920. gads",
+          "6": "1941. gads"
+	 },
+	  "answer": "4"
+	},
+	{
+		"ref": "DFC61B",
+		"subref": "DFC61B_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā tika dibināta Svētā savienība?",
+		"options": {
+		  "1": "945. g.",
+          "2": "1036. g.",
+          "3": "1581. g.",
+          "4": "1815. g.",
+          "5": "1921. g.",
+          "6": "1958. g."
+	 },
+	  "answer": "4"
+	},
+	{
+		"ref": "DFC61B",
+		"subref": "DFC61B_C",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā notika mašīnu un traktoru staciju likvidācija?",
+		"options": {
+		  "1": "945. g.",
+          "2": "1036. g.",
+          "3": "1581. g.",
+          "4": "1815. g.",
+          "5": "1921. g.",
+          "6": "1958. g."
+	 },
+	  "answer": "6"
+	},
+	{
+		"ref": "DFC61B",
+		"subref": "DFC61B_D",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā tika nogalināts kņazs Igors?",
+		"options": {
+		  "1": "945. g.",
+          "2": "1036. g.",
+          "3": "1581. g.",
+          "4": "1815. g.",
+          "5": "1921. g.",
+          "6": "1958. g."
+	 },
+	  "answer": "1"
+	},
+	{
+		"ref": "5DB114",
+		"subref": "5DB114_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā notika kņazu sanāksme Ļubečā?",
+		"options": {
+		  "1": "1097. g.",
+          "2": "1327. g.",
+          "3": "1662. g.",
+          "4": "1809. g.",
+          "5": "1939. g.",
+          "6": "1969. g."
+	 },
+	  "answer": "1"
+	},
+	{
+		"ref": "5DB114",
+		"subref": "5DB114_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā notika Vara dumpis Maskavā?",
+		"options": {
+		  "1": "1097. g.",
+          "2": "1327. g.",
+          "3": "1662. g.",
+          "4": "1809. g.",
+          "5": "1939. g.",
+          "6": "1969. g."
+	 },
+	  "answer": "3"
+	},
+	{
+		"ref": "5DB114",
+		"subref": "5DB114_C",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā Somija tika pievienota Krievijai?",
+		"options": {
+		  "1": "1097. g.",
+          "2": "1327. g.",
+          "3": "1662. g.",
+          "4": "1809. g.",
+          "5": "1939. g.",
+          "6": "1969. g."
+	 },
+	  "answer": "4"
+	},
+	{
+		"ref": "00402A",
+		"subref": "00402A_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurā gadā notika Ņ. S. Hruščova atkāpšanās?",
+		"options": {
+		  "1": "1097. g.",
+          "2": "1238. g.",
+          "3": "1551. g.",
+          "4": "1714. g.",
+          "5": "1953. g.",
+          "6": "1964. g."
+	 },
+	  "answer": "6"
+	},
+	{
+		"ref": "286A27",
+		"subref": "286A27_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās Grunvaldes kaujā?",
+		"options": {
+		  "1": "Stefans Batorijs",
+          "2": "Daniils Galīcijas",
+          "3": "Vītauts",
+          "4": "M. D. Skobeļevs",
+          "5": "M. N. Tuhačevskis",
+          "6": "M. B. Barklajs de Tolli"
+	 },
+	  "answer": "3"
+	},
+	{
+		"ref": "286A27",
+		"subref": "286A27_D",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās Leipcigas kaujā?",
+		"options": {
+		  "1": "Stefans Batorijs",
+          "2": "Daniils Galīcijas",
+          "3": "Vītauts",
+          "4": "M. D. Skobeļevs",
+          "5": "M. N. Tuhačevskis",
+          "6": "M. B. Barklajs de Tolli"
+	 },
+	  "answer": "6"
+	},
+	{
+		"ref": "2CF82A",
+		"subref": "2CF82A_C",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās Staļingradas kaujā?",
+		"options": {
+		  "1": "A. I. Jerjomenko",
+          "2": "A. V. Suvorovs",
+          "3": "M. I. Kutuzovs",
+          "4": "B. P. Šeremetjevs",
+          "5": "Jermaks Timofejevičs",
+          "6": "Aleksandrs Peresvets"
+	 },
+	  "answer": "1"
+	},
+	{
+		"ref": "2CF82A",
+		"subref": "2CF82A_D",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās Bukarestes miera noslēgšanā?",
+		"options": {
+		  "1": "A. I. Jerjomenko",
+          "2": "A. V. Suvorovs",
+          "3": "M. I. Kutuzovs",
+          "4": "B. P. Šeremetjevs",
+          "5": "Jermaks Timofejevičs",
+          "6": "Aleksandrs Peresvets"
+	 },
+	  "answer": "3"
+	},
+	{
+		"ref": "42DADB",
+		"subref": "42DADB_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās atentātā mēģinājumā pret imperatoru Aleksandru II?",
+		"options": {
+		  "1": "S. T. Razins",
+          "2": "Ivans III",
+          "3": "Dmitrijs Donskojs",
+          "4": "S. L. Perovskaja",
+          "5": "A. I. Deņikins",
+          "6": "E. I. Pugačovs"
+	 },
+	  "answer": "4"
+	},
+	{
+		"ref": "42DADB",
+		"subref": "42DADB_C",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās “stāvēšanā” pie Ugras upes?",
+		"options": {
+		  "1": "S. T. Razins",
+          "2": "Ivans III",
+          "3": "Dmitrijs Donskojs",
+          "4": "S. L. Perovskaja",
+          "5": "A. I. Deņikins",
+          "6": "E. I. Pugačovs"
+	 },
+	  "answer": "2"
+	},
+	{
+		"ref": "42DADB",
+		"subref": "42DADB_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš bija saistīts ar kazaku un zemnieku sacelšanos 17. gadsimtā?",
+		"options": {
+		  "1": "S. T. Razins",
+          "2": "Ivans III",
+          "3": "Dmitrijs Donskojs",
+          "4": "S. L. Perovskaja",
+          "5": "A. I. Deņikins",
+          "6": "E. I. Pugačovs"
+	 },
+	  "answer": "1"
+	},
+	{
+		"ref": "42DADB",
+		"subref": "42DADB_D",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš bija viens no Krievijas Pilsoņu kara dalībniekiem?",
+		"options": {
+		  "1": "S. T. Razins",
+          "2": "Ivans III",
+          "3": "Dmitrijs Donskojs",
+          "4": "S. L. Perovskaja",
+          "5": "A. I. Deņikins",
+          "6": "E. I. Pugačovs"
+	 },
+	  "answer": "5"
+	},
+	{
+		"ref": "2CD85E",
+		"subref": "2CD85E_C",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš bija Ledus kaujas dalībnieks?",
+		"options": {
+		  "1": "Andrejs Bogoljubskis",
+          "2": "S. T. Razins",
+          "3": "A. M. Gorčakovs",
+          "4": "Aleksandrs Ņevskis",
+          "5": "J. V. Staļins",
+          "6": "K. Miņins"
+	 },
+	  "answer": "4"
+	},
+	{
+		"ref": "2CD85E",
+		"subref": "2CD85E_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās Berlīnes kongresā?",
+		"options": {
+		  "1": "Andrejs Bogoljubskis",
+          "2": "S. T. Razins",
+          "3": "A. M. Gorčakovs",
+          "4": "Aleksandrs Ņevskis",
+          "5": "J. V. Staļins",
+          "6": "K. Miņins"
+	 },
+	  "answer": "3"
+	},
+	{
+		"ref": "941B3B",
+		"subref": "941B3B_A",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš piedalījās PSRS Tautas deputātu pirmajā kongresā?",
+		"options": {
+	      "1": "K. F. Riļejevs",
+          "2": "Andrejs Bogoljubskis",
+          "3": "Ivans IV",
+          "4": "A. D. Saharovs",
+          "5": "Ņ. S. Hruščovs",
+          "6": "Cars Aleksejs Mihailovičs"
+	 },
+	  "answer": "4"
+	},
+	{
+		"ref": "941B3B",
+		"subref": "941B3B_B",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš bija saistīts ar Slepeno lietu pārvaldes izveidi?",
+		"options": {
+		  "1": "K. F. Riļejevs",
+          "2": "Andrejs Bogoljubskis",
+          "3": "Ivans IV",
+          "4": "A. D. Saharovs",
+          "5": "Ņ. S. Hruščovs",
+          "6": "Cars Aleksejs Mihailovičs"
+	 },
+	  "answer": "6"
+	},
+	{
+		"ref": "941B3B",
+		"subref": "941B3B_D",
+		"source_url": "https://ege.fipi.ru/bank/index.php?proj=068A227D253BA6C04D0C832387FD0D89",
+		"question_type": "Single Choice",
+		"question": "Kurš bija saistīts ar ziemeļaustrumu Krievzemes galvaspilsētas pārcelšanu no Suzdaļas uz Vladimiru?",
+		"options": {
+		  "1": "K. F. Riļejevs",
+          "2": "Andrejs Bogoljubskis",
+          "3": "Ivans IV",
+          "4": "A. D. Saharovs",
+          "5": "Ņ. S. Hruščovs",
+          "6": "Cars Aleksejs Mihailovičs"
+	 },
+	  "answer": "2"
+	}
+]
