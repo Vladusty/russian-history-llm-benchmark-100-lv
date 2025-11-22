@@ -13,7 +13,7 @@ Each sub-item (A/B/C/D) is converted into a **standalone single-choice question*
 This repository includes:
 
 - **Dataset**: `russian_history_unified_state_exam_matching_task_100_lv.json`  
-- **Evaluation notebook**: `russian_history_llm_evaluation.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LtH2y1aQoyqxD6hLZmDKQ9foSuXKDZ1S?usp=sharing)
+- **Evaluation notebook**: `russian_history_llm_evaluation.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16ZqljMNNltYmrNpMXJimMYwNi4o0daMM?usp=sharing)
 - **Evaluation pipeline**: prompt construction, output parsing, metrics  
 - **Precomputed results** for several models (Gemma, Tilde, Llama, Mistral, GPT-4o-mini, Grok, Haiku, Qwen, etc.)
 
